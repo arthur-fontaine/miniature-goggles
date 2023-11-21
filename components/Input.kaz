@@ -1,5 +1,6 @@
 - state value: string = ''
 - state old: string = ''
+- state v: string = ''
 - onMount () => {
   console.log('Hello')
   console.log('Mounted')
