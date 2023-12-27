@@ -14,7 +14,7 @@ input(on:change={(event) => {
   old = value
   value3 = 'test'
   value2 = 'yeya'
-  console.log('2', value)
+  console.log('3', value)
 }})
 
 div(class={value})
