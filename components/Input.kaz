@@ -3,7 +3,7 @@
 - state v2: string = ''
 - onMount () => {
   console.log('Hello')
-  console.log('Mounted')
+  console.log('Mounted2')
 }
 
 input(on:change={(event) => {
